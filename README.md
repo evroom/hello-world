@@ -1,4 +1,4 @@
 # hello-world
 First steps in using github
 
-Making changes to the README file.
+Making new changes to the README file.
